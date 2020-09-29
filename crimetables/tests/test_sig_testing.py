@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 import pytest
-from crimetables.core.sig_test_function import sig_test_crime
+from crimetables.sig_testing import sig_test_crime
 
 ## Test as a function
 
